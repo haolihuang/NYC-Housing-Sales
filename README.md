@@ -1,4 +1,4 @@
-# NYC-housing-sales
+# NYC-Housing-Sales
 
 ## About the project
 ---
