@@ -21,6 +21,7 @@ Here is a sample of the visualization.
 ![Alt text](sample_map.png?raw=true "Title")
 
 We see that the most expensive neighborhoods concentrate in Manhattan and then Brooklyn. 
+
 The three most expensive neighborhoods in Manhattan are: 
 - SoHo-TriBeCa-Civic Center-Little Italy (**2.7 m**)
 - Midtown-Midtown South (**1.9 m**)
